@@ -1,9 +1,9 @@
 # Slack
 
-[Download Slack](#quick-start-instructions)       
-[Setting Up Your Slack Workspace](#setting-up-your-slack-workspace)         
-[Mastering Channels and Conversations](#mastering-channels-and-conversations)        
-[Optimizing Your Slack Profile and Availability](#optimizing-your-slack-profile-and-availability)         
+- [Download Slack](#quick-start-instructions)       
+- [Setting Up Your Slack Workspace](#setting-up-your-slack-workspace)         
+- [Mastering Channels and Conversations](#mastering-channels-and-conversations)        
+- [Optimizing Your Slack Profile and Availability](#optimizing-your-slack-profile-and-availability)         
 
 ## Quick Start Instructions:
 
